@@ -1,0 +1,7 @@
+透視的環境，所以最外面要包一個	card-wrapper
+
+
+若有jquery，javascript就要先放$()
+
+favicon generator把png,jpg轉換成.ico
+8*8px
